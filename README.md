@@ -1,2 +1,4 @@
 # Javascript_CookiePolicy
-HTML, SASS, Javascript
+HTML, CSS, Javascript
+
+https://codepen.io/zkairys/pen/JBEaPq
